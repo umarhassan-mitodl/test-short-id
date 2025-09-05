@@ -1,0 +1,30 @@
+{
+  "term": "Spring",
+  "year": "2001",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-title"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-title"
+  },
+  "course_title": "test-course-title",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "test-desc",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "pri",
+  "learning_resource_types": [],
+  "site_uid": "75d0b985-55fd-4699-9774-d4dac8a4785b",
+  "site_short_id": "test-short-id",
+  "site_url_path": "courses/pri-test-course-title-spring-2001"
+}
