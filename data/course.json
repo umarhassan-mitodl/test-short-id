@@ -15,7 +15,7 @@
     "website": "test-title"
   },
   "course_title": "test-course-title",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "test-course-desc",
   "department_numbers": [
@@ -23,8 +23,10 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "pri",
-  "learning_resource_types": [],
-  "site_uid": "0cfceb16-953a-44be-a112-473308417cbf",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "1cbaff6c-d7f7-4d6e-8748-abde576e2134",
   "site_short_id": "test-short-id",
   "site_url_path": "courses/pri-test-course-title-spring-2001"
 }
