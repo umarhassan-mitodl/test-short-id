@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 2b204f1c-7d38-4185-b8ea-9975f0181dd3
+  name: p1
+  pageRef: /pages/p1
+  weight: 10
