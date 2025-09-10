@@ -15,7 +15,7 @@
     "website": "test-title"
   },
   "course_title": "test-course-title",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
   "course_description": "test-course-desc",
   "department_numbers": [
